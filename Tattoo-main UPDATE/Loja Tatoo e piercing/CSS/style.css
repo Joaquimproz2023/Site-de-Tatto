@@ -1,0 +1,10 @@
+.d-heigth{
+    max-height: 88.88vh;
+}
+
+.carousel-item img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
